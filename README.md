@@ -1,5 +1,7 @@
 # Static Job Listings 💼
 
+![preview](/public/desktop-preview.jpg)
+
 ## Overview
 
 A responsive and interactive job listings application built with Vue 3, TypeScript, and Tailwind CSS. This project is a solution to the Frontend Mentor challenge, demonstrating modern web development practices.
@@ -77,8 +79,8 @@ src/
 
 ## 🖼️ Design Preview
 
-| Desktop Design | Mobile Design with Filters |
-|---------------|----------------------------|
+| Desktop Design                                | Mobile Design with Filters                        |
+| --------------------------------------------- | ------------------------------------------------- |
 | ![Desktop Design](/public/desktop-design.jpg) | ![Mobile Design](/public/mobile-with-filters.jpg) |
 
 ## 🤝 Contributing
