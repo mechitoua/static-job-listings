@@ -25,7 +25,7 @@ const { activeFilters, filteredJobs, addFilter, removeFilter, clearFilters } = u
       />
     </header>
 
-    <main class="container mx-auto px-6 py-[76px]">
+    <main class="container mx-auto px-6 py-[25px] md:py-[76px]">
       <div class="max-w-[1110px] mx-auto space-y-6">
         <JobCard v-for="job in filteredJobs" :key="job.id" :job="job" :onTagClick="addFilter" />
       </div>
